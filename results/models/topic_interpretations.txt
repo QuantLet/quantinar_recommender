@@ -1,0 +1,5 @@
+0|Financial Risk Management|Top words: risk, financial, frm, portfolio, market
+1|Statistical Modeling Methods|Top words: prediction, estimation, selection, method, approach
+2|Data Science Tutorial|Top words: data, student, programming, learning, analytics
+3|Data Analysis Techniques|Top words: clustering, model, application, analysis, data
+4|Financial Technology Analysis|Top words: market, loan, price, financial, digital

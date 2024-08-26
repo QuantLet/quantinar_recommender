@@ -1,0 +1,352 @@
+﻿title,url,description,last_updated,instructors,students_enrolled
+Cryptocurrency Dynamics,https://quantinar.com/course/29/___,This video gives insights on the dynamics of the cryptocurrency sector.,7th November 2022,Konstantin Haeusler,27
+Pricing Kernels and Risk Premia,https://quantinar.com/course/30/PricingKernels,"Bitcoin Pricing Kernels are inferred using a novel data set from Deribit, one of the largest Bitcoin derivatives exchanges. This enables arbitrage-free pricing of various instruments. State Price Densities are estimated with Rookley’s method.",7th November 2022,Julian Winkel,20
+DS2 Data Science & Digital Society,https://quantinar.com/course/39/datascience,DS2 Data Science & Digital Society,2nd November 2023,Wolfgang Härdle,100
+Kalman Filter,https://quantinar.com/course/42/methodology,"When what we want to measure is not observable, we could use Kalman filter to measure indirectly according to the information of other observable measurements. One of its famous application is in emission of APPOLO. Now, it is also widely used in finance such as predicting of time series.",7th November 2022,Ruting Wang,64
+Financial Risk Meter for Emerging Markets,https://quantinar.com/course/52/FRM@EM,"The fast-growing Emerging Market (EM) economies and their improved transparency
+
+and liquidity have attracted international investors. However, the external
+
+price shocks can result in a higher level of volatility as well as domestic policy instability.
+
+Therefore, an efficient risk measure and hedging strategies are needed to help
+
+investors protect their investments against this risk. In this paper, the daily systemic
+
+risk measure FRM (Financial Risk Meter) is proposed for Emerging markets (FRM@
+
+EM). The FRM@ EM is applied to capture systemic risk behavior embedded in the
+
+returns of the 25 largest EMs’ Financial Institutions (FIs), covering the BRIMST
+
+(Brazil, Russia, India, Mexico, South Africa, and Turkey), and thereby reflects the
+
+financial linkages between these economies. The results indicated that the FRM of
+
+EMs’ FIs reached its maximum during the US financial crisis following the COVID-
+
+19 crisis and the Macro factors explain the BRIMST’ FIs with various degrees of
+
+sensibility. We then study the relationship between those factors and the tail event
+
+network behavior to build our policy recommendations to help the investors choose
+
+the tail-event optimized portfolios and the suitable market for investment. For that
+
+purpose, an overlapping region between portfolio optimization strategies and FRM
+
+network centrality is developed. We propose a robust and well-diversified tail-event
+
+and cluster risk-sensitive portfolio allocation model named uplifted Hierarchical Risk
+
+Parity (upHRP) and compare it to more classical approaches. Results indicate that
+
+the upHRP approach provides better diversification. Moreover, the upHRP portfolio
+
+overweight low-central FIs and underweight high-central ones.",7th November 2022,Souhir Ben Amor,18
+Hedging Cryptocurrency Options,https://quantinar.com/course/56/cryptohedging,"This course presents strategies for pricing cryptocurrency options, simulate market scenarios and hedge cryptocurrency options with affine jump diffusion models and infinite activity Levy processes.",7th November 2022,Lili Matic,20
+Network Analysis on Financial Market,https://quantinar.com/course/73/NetworkAnalysis,"This course presents the most recent research results on the topic of ""Financial Market with Network Analysis"".",7th November 2022,Junjie Hu,25
+Statistics with R,https://quantinar.com/course/78/r,"Basic calculations  
+Vectors and matrices  
+Data frames and data IO  
+Plotting",7th November 2022,Julian Winkel,13
+Multivariate Statistical Analysis,https://quantinar.com/course/79/mva,"Descriptive Techniques  
+Principal Component Analysis",7th November 2022,Julian Winkel,17
+Computer Museum,https://quantinar.com/course/97/computer-museum,"A brief introduction to the Computer Museum, its history and items that it posseses.",7th November 2022,Ivan Kotik,7
+QuantLet,https://quantinar.com/course/98/quantlet,"QuantLet was initiated by the original Ladislaus von Bortkiewicz Chair of Statistics and then inherited by IRTG1792-""High Dimensional Nonstationary Time Series"" at Humboldt-Universität zu Berlin.
+
+The goal of QuantLet is for advocating the ""replicability and transparency"" of scientific researches, hence providing an open-source platform for researchers to publish their program code and data.",7th November 2022,Junjie Hu,29
+Statistics of Financial Markets,https://quantinar.com/course/103/statistics-of-financial-markets,"This course gives an introduction to the basic concepts of option pricing and its probabilistic foundations. Next, stochastic processes in discrete time are presented and the Wiener process is introduced. Itô's Lemma is derived and the Black- Scholes (BS) Option model is presented leading to the analytic solution for the BS Option price. Numerical solutions via binomial or trinomial tree constructions are discussed in detail. SFM is continued with Interest Rate Dynamics, valuation of options in spot rate dynamic models, like CIR or the HJM framework.  A credit risk portfolio with the discussion of CDOs is finally presented.
+
+**Requirements: Multivariate Statistical Analysis (MVA) (or prove equivalent knowledge)**
+
+**Material：**
+
+Statistics of Financial Markets (Franke, Härdle, Hafner), 2019, 5th ed. Springer.  
+  
+[http://www.springer.com/de/book/9783642545382](http://www.springer.com/de/book/9783642545382)
+  
+  
+Statistics of Financial Markets (Borak, Härdle, Lopez Cabrera), 2013, 2nd ed. Springer.  
+  
+[http://www.springer.com/statistics/business%2C+economics+%26+finance/book/978-3-642-33928-8](http://www.springer.com/statistics/business%2C+economics+%26+finance/book/978-3-642-33928-8)",7th November 2022,Wolfgang Härdle,83
+DEDA_2022NYCU_Fraud Detection,https://quantinar.com/course/191/deda-nycu-2022,Here are the final projects from NYCU Financial Engineering course.,17th December 2022,Zoe Lee,8
+Reddit Sentiment BTC Returns,https://quantinar.com/course/192/reddit-sentiment-btc-returns,\-,17th December 2022,Andreas Karlsson,7
+Using Machine Learning to Predict The Price of Taiwan Top 50 Tracker Fund,https://quantinar.com/course/198/using-machine-learning-to-predict-the-price-of-taiwan-top-50-tracker-fund,Objective of this study is to predict the closing price of the Taiwan Top 50 Tracker Fund using different machine learning algorithms and compare their performances.,17th December 2022,tzu-ying tung,6
+Tweet Analysis: Covid-19 in Switzerland,https://quantinar.com/course/201/tweet-analysis-covid-19-in-switzerland,\-,17th December 2022,Raul Cristian Bag,4
+Sentiment Analysis - Putin's Speeches about the war,https://quantinar.com/course/202/sentiment-analysis-putins-speeches-about-the-war,Sentiment Analysis of Putin's Speeches about Russo-Ukrainian War,17th December 2022,Raul Cristian Bag,4
+Welcome & Introduction,https://quantinar.com/course/255/welcome-introduction,"_""Data is the new oil...""_
+
+You might have heard this saying or a similar phrase before. Big Data, Analytics, Data Science, Artificial Intelligence, Machine Learning, ... many _colorful_ terms refer to the increasing use of analytical models that aim at extracting insight from the vast amounts of data that the digital society is producing.
+
+The module Business Analytics and Data Science (BADS) is concerned with theories, concepts, and practices to **support decision-making by means of formal, data-driven methods**. We will revisit different forms of model-based decision support, examine the standard workflow of modern data analysis, and discuss a broad set of models for descriptive and predictive analytics. **Predictive analytics** is the main focus of the course. Many corporate use cases of analytics and data science involve predicting some future state or behavior, for example, how customers will respond to certain marketing stimuli. We will introduce statistical principles of learning from data and cover several common prediction methods, ranging **from** established **industry workhorses like logistic regression** **to state-of-the-art machine learning algorithms** such as gradient boosting. Subsequently, we will dive into specific tasks in the predictive modeling pipeline such as e.g., feature selection or remedies to the class imbalance problem. Given a variety of specialized modeling tasks and challenges, we will focus on topics with high relevance to managerial decision-making including cost-sensitive learning and model explainability (i.e., XAI).
+
+The module consists of a lecture and a tutorial session. The **lecture** **introduces** relevant **concepts** and provides room for discussion. The goal of the **tutorial** is to empower students to develop state-of-the-art analytical models using contemporary programming libraries for data science. Specifically, we will use the **Python** programming language. Students receive demos on how to implement specific algorithms from scratch and work with real-world data to solve common modeling tasks themselves.
+
+In summary, the module pursues the following **learning objectives**:
+
+*   Students are familiar with the three branches of descriptive, predictive, and prescriptive analytics and appreciate the relationships between these streams.
+*   Given some data, students are able to select appropriate techniques to summarize and visualize the data to maximize managerial insight.
+*   Students understand the potential and also limitations of predictive analytics to aid decision-making. Given a decision task, they can discuss the relative merits and demerits of alternative algorithms and recommend a suitable prediction method.
+*   Students are familiar with Python programming and standard Python libraries for data handling and machine learning. Using these tools, they can develop basic and advanced prediction models and assess their accuracy in a statistically sound manner.
+
+It is not strictly necessary that students join the course with prior experience in computer programming. We reserve the first two weeks of the tutorial to introduce programming principles and the Python programming language. That said, **high and continuous engagement with the module** in general and the tutorial in particular **including ample time for self-study is expected to ensure the completion of our ambitious learning program**. Students who wish to prepare for the course are invited to complete some of the many excellent tutorials on Python programming. A simple web search for ""Python programming introduction"" produces tons of results. The resources at [Python.org also provide an excellent starting point.](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+
+_We are looking forward to seeing you in BADS._",21st February 2024,Stefan Lessmann,4
+Foundations of Descriptive Analytics,https://quantinar.com/course/258/foundations-of-descriptive-analytics,"_""Data is the new oil...""_
+
+You might have heard this saying or a similar phrase before. Big Data, Analytics, Data Science, Artificial Intelligence, Machine Learning, ... many _colorful_ terms refer to the increasing use of analytical models that aim at extracting insight from the vast amounts of data that the digital society is producing.
+
+The module Business Analytics and Data Science (BADS) is concerned with theories, concepts, and practices to **support decision-making by means of formal, data-driven methods**. We will revisit different forms of model-based decision support, examine the standard workflow of modern data analysis, and discuss a broad set of models for descriptive and predictive analytics. **Predictive analytics** is the main focus of the course. Many corporate use cases of analytics and data science involve predicting some future state or behavior, for example, how customers will respond to certain marketing stimuli. We will introduce statistical principles of learning from data and cover several common prediction methods, ranging **from** established **industry workhorses like logistic regression** **to state-of-the-art machine learning algorithms** such as gradient boosting. Subsequently, we will dive into specific tasks in the predictive modeling pipeline such as e.g., feature selection or remedies to the class imbalance problem. Given a variety of specialized modeling tasks and challenges, we will focus on topics with high relevance to managerial decision-making including cost-sensitive learning and model explainability (i.e., XAI).
+
+The module consists of a lecture and a tutorial session. The **lecture** **introduces** relevant **concepts** and provides room for discussion. The goal of the **tutorial** is to empower students to develop state-of-the-art analytical models using contemporary programming libraries for data science. Specifically, we will use the **Python** programming language. Students receive demos on how to implement specific algorithms from scratch and work with real-world data to solve common modeling tasks themselves.
+
+In summary, the module pursues the following **learning objectives**:
+
+*   Students are familiar with the three branches of descriptive, predictive, and prescriptive analytics and appreciate the relationships between these streams.
+*   Given some data, students are able to select appropriate techniques to summarize and visualize the data to maximize managerial insight.
+*   Students understand the potential and also limitations of predictive analytics to aid decision-making. Given a decision task, they can discuss the relative merits and demerits of alternative algorithms and recommend a suitable prediction method.
+*   Students are familiar with Python programming and standard Python libraries for data handling and machine learning. Using these tools, they can develop basic and advanced prediction models and assess their accuracy in a statistically sound manner.
+
+It is not strictly necessary that students join the course with prior experience in computer programming. We reserve the first two weeks of the tutorial to introduce programming principles and the Python programming language. That said, **high and continuous engagement with the module** in general and the tutorial in particular **including ample time for self-study is expected to ensure the completion of our ambitious learning program**. Students who wish to prepare for the course are invited to complete some of the many excellent tutorials on Python programming. A simple web search for ""Python programming introduction"" produces tons of results. The resources at [Python.org also provide an excellent starting point.](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+
+_We are looking forward to seeing you in BADS._",28th March 2024,Stefan Lessmann,1
+Foundations of Predictive Analytics,https://quantinar.com/course/261/foundations-of-predictive-analytics,"_""Data is the new oil...""_
+
+You might have heard this saying or a similar phrase before. Big Data, Analytics, Data Science, Artificial Intelligence, Machine Learning, ... many _colorful_ terms refer to the increasing use of analytical models that aim at extracting insight from the vast amounts of data that the digital society is producing.
+
+The module Business Analytics and Data Science (BADS) is concerned with theories, concepts, and practices to **support decision-making by means of formal, data-driven methods**. We will revisit different forms of model-based decision support, examine the standard workflow of modern data analysis, and discuss a broad set of models for descriptive and predictive analytics. **Predictive analytics** is the main focus of the course. Many corporate use cases of analytics and data science involve predicting some future state or behavior, for example, how customers will respond to certain marketing stimuli. We will introduce statistical principles of learning from data and cover several common prediction methods, ranging **from** established **industry workhorses like logistic regression** **to state-of-the-art machine learning algorithms** such as gradient boosting. Subsequently, we will dive into specific tasks in the predictive modeling pipeline such as e.g., feature selection or remedies to the class imbalance problem. Given a variety of specialized modeling tasks and challenges, we will focus on topics with high relevance to managerial decision-making including cost-sensitive learning and model explainability (i.e., XAI).
+
+The module consists of a lecture and a tutorial session. The **lecture** **introduces** relevant **concepts** and provides room for discussion. The goal of the **tutorial** is to empower students to develop state-of-the-art analytical models using contemporary programming libraries for data science. Specifically, we will use the **Python** programming language. Students receive demos on how to implement specific algorithms from scratch and work with real-world data to solve common modeling tasks themselves.
+
+In summary, the module pursues the following **learning objectives**:
+
+*   Students are familiar with the three branches of descriptive, predictive, and prescriptive analytics and appreciate the relationships between these streams.
+*   Given some data, students are able to select appropriate techniques to summarize and visualize the data to maximize managerial insight.
+*   Students understand the potential and also limitations of predictive analytics to aid decision-making. Given a decision task, they can discuss the relative merits and demerits of alternative algorithms and recommend a suitable prediction method.
+*   Students are familiar with Python programming and standard Python libraries for data handling and machine learning. Using these tools, they can develop basic and advanced prediction models and assess their accuracy in a statistically sound manner.
+
+It is not strictly necessary that students join the course with prior experience in computer programming. We reserve the first two weeks of the tutorial to introduce programming principles and the Python programming language. That said, **high and continuous engagement with the module** in general and the tutorial in particular **including ample time for self-study is expected to ensure the completion of our ambitious learning program**. Students who wish to prepare for the course are invited to complete some of the many excellent tutorials on Python programming. A simple web search for ""Python programming introduction"" produces tons of results. The resources at [Python.org also provide an excellent starting point.](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+
+_We are looking forward to seeing you in BADS._",10th March 2024,Stefan Lessmann,0
+Explanatory Data Analysis and Data Preparation - Part 1,https://quantinar.com/course/264/explanatory-data-analysis-and-data-preparation-part-1,"_""Data is the new oil...""_
+
+You might have heard this saying or a similar phrase before. Big Data, Analytics, Data Science, Artificial Intelligence, Machine Learning, ... many _colorful_ terms refer to the increasing use of analytical models that aim at extracting insight from the vast amounts of data that the digital society is producing.
+
+The module Business Analytics and Data Science (BADS) is concerned with theories, concepts, and practices to **support decision-making by means of formal, data-driven methods**. We will revisit different forms of model-based decision support, examine the standard workflow of modern data analysis, and discuss a broad set of models for descriptive and predictive analytics. **Predictive analytics** is the main focus of the course. Many corporate use cases of analytics and data science involve predicting some future state or behavior, for example, how customers will respond to certain marketing stimuli. We will introduce statistical principles of learning from data and cover several common prediction methods, ranging **from** established **industry workhorses like logistic regression** **to state-of-the-art machine learning algorithms** such as gradient boosting. Subsequently, we will dive into specific tasks in the predictive modeling pipeline such as e.g., feature selection or remedies to the class imbalance problem. Given a variety of specialized modeling tasks and challenges, we will focus on topics with high relevance to managerial decision-making including cost-sensitive learning and model explainability (i.e., XAI).
+
+The module consists of a lecture and a tutorial session. The **lecture** **introduces** relevant **concepts** and provides room for discussion. The goal of the **tutorial** is to empower students to develop state-of-the-art analytical models using contemporary programming libraries for data science. Specifically, we will use the **Python** programming language. Students receive demos on how to implement specific algorithms from scratch and work with real-world data to solve common modeling tasks themselves.
+
+In summary, the module pursues the following **learning objectives**:
+
+*   Students are familiar with the three branches of descriptive, predictive, and prescriptive analytics and appreciate the relationships between these streams.
+*   Given some data, students are able to select appropriate techniques to summarize and visualize the data to maximize managerial insight.
+*   Students understand the potential and also limitations of predictive analytics to aid decision-making. Given a decision task, they can discuss the relative merits and demerits of alternative algorithms and recommend a suitable prediction method.
+*   Students are familiar with Python programming and standard Python libraries for data handling and machine learning. Using these tools, they can develop basic and advanced prediction models and assess their accuracy in a statistically sound manner.
+
+It is not strictly necessary that students join the course with prior experience in computer programming. We reserve the first two weeks of the tutorial to introduce programming principles and the Python programming language. That said, **high and continuous engagement with the module** in general and the tutorial in particular **including ample time for self-study is expected to ensure the completion of our ambitious learning program**. Students who wish to prepare for the course are invited to complete some of the many excellent tutorials on Python programming. A simple web search for ""Python programming introduction"" produces tons of results. The resources at [Python.org also provide an excellent starting point.](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+
+_We are looking forward to seeing you in BADS._",28th March 2024,Stefan Lessmann,1
+Explanatory Data Analysis and Data Preparation - Part 2,https://quantinar.com/course/288/explanatory-data-analysis-and-data-preparation-part-2,"_""Data is the new oil...""_
+
+You might have heard this saying or a similar phrase before. Big Data, Analytics, Data Science, Artificial Intelligence, Machine Learning, ... many _colorful_ terms refer to the increasing use of analytical models that aim at extracting insight from the vast amounts of data that the digital society is producing.
+
+The module Business Analytics and Data Science (BADS) is concerned with theories, concepts, and practices to **support decision-making by means of formal, data-driven methods**. We will revisit different forms of model-based decision support, examine the standard workflow of modern data analysis, and discuss a broad set of models for descriptive and predictive analytics. **Predictive analytics** is the main focus of the course. Many corporate use cases of analytics and data science involve predicting some future state or behavior, for example, how customers will respond to certain marketing stimuli. We will introduce statistical principles of learning from data and cover several common prediction methods, ranging **from** established **industry workhorses like logistic regression** **to state-of-the-art machine learning algorithms** such as gradient boosting. Subsequently, we will dive into specific tasks in the predictive modeling pipeline such as e.g., feature selection or remedies to the class imbalance problem. Given a variety of specialized modeling tasks and challenges, we will focus on topics with high relevance to managerial decision-making including cost-sensitive learning and model explainability (i.e., XAI).
+
+The module consists of a lecture and a tutorial session. The **lecture** **introduces** relevant **concepts** and provides room for discussion. The goal of the **tutorial** is to empower students to develop state-of-the-art analytical models using contemporary programming libraries for data science. Specifically, we will use the **Python** programming language. Students receive demos on how to implement specific algorithms from scratch and work with real-world data to solve common modeling tasks themselves.
+
+In summary, the module pursues the following **learning objectives**:
+
+*   Students are familiar with the three branches of descriptive, predictive, and prescriptive analytics and appreciate the relationships between these streams.
+*   Given some data, students are able to select appropriate techniques to summarize and visualize the data to maximize managerial insight.
+*   Students understand the potential and also limitations of predictive analytics to aid decision-making. Given a decision task, they can discuss the relative merits and demerits of alternative algorithms and recommend a suitable prediction method.
+*   Students are familiar with Python programming and standard Python libraries for data handling and machine learning. Using these tools, they can develop basic and advanced prediction models and assess their accuracy in a statistically sound manner.
+
+It is not strictly necessary that students join the course with prior experience in computer programming. We reserve the first two weeks of the tutorial to introduce programming principles and the Python programming language. That said, **high and continuous engagement with the module** in general and the tutorial in particular **including ample time for self-study is expected to ensure the completion of our ambitious learning program**. Students who wish to prepare for the course are invited to complete some of the many excellent tutorials on Python programming. A simple web search for ""Python programming introduction"" produces tons of results. The resources at [Python.org also provide an excellent starting point.](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+
+_We are looking forward to seeing you in BADS._",19th March 2024,Stefan Lessmann,6
+Variational Bayes,https://quantinar.com/course/509/variational-bayes,"Variational Bayes is designed to approximate posterior densities arising in Bayesian inference and machine learning. It's widely applied in the areas of 
+
+*   Clustering
+*   Text Mining
+*   Digital Image Processing
+*   Statistics",16th January 2023,Rui Ren,3
+"Bahadur, Edgeworth, Cornish-Fisher expansions",https://quantinar.com/course/647/bahadur-edgeworth-cornish-fisher-expansions,"In this course, we will study three important asymptotic expansions that improve upon the normal distribution approximation provided by the central limit theorem - the Bahadur, Edgeworth, and Cornish-Fisher expansions. A key focus will be using these expansions for estimating quantiles, which are widely used on risk measures.
+
+The central limit theorem shows the distribution of sample statistics converges to normal, but the approximation can be poor for small samples or non-normal distributions. The expansions we study address this by incorporating higher order terms and cumulants.
+
+The Bahadur expansion provides an approximation for sample quantiles using an asymptotic expansion incorporating higher order terms related to sample size. The Edgeworth expansion expands the cumulative distribution function itself using cumulants. The Cornish-Fisher expansion directly approximates the quantile function by adjusting the normal quantiles based on skewness and kurtosis.
+
+In this course, we will derivate, compare, and apply these expansions for better understanding the quantile estimation. Students will have strong conceptual and practical skills for using asymptotic theory. The techniques will be broadly applicable across statistics and data science.",1st November 2023,Ruting Wang,9
+Sampling Bias and Scorecard Evaluation,https://quantinar.com/course/655/sampling-bias-and-scorecard-evaluation,"We revisit the problem of sample selection bias in application scoring. Unlike most prior research, our focus is not on how sampling bias impacts the development of credit scorecards. Instead, we study how using a biased sample (i.e., containing only accepted credit applicants) impacts the evaluation of scorecards. We demonstrate that standard practices for scorecard evaluation underestimate the true bad rate substantially. More importantly, we propose a Bayesian evaluation framework to mitigate the adverse effect of the sampling bias on scorecard evaluation. Our framework is agnostic of the employed measure of scorecard performance and supports a range of standard indicators including, but not limited to, the AUC, KS, the Brier score as well as any measure derived from the confusion matrix like precision, recall, or F-score. 
+
+Extensive empirical experiments using synthetic and real-world microlending data provide strong evidence that our Bayesian framework predicts the true performance of a scorecard in production much better than standard practices and benchmarks taken from the literature. 
+
+Last, we propose an approach to shed light on the business value of better practices for scorecard performance prediction. Considering a setting in which an institution aims to optimize its acceptance policy and seeks to determine the profit-maximizing acceptance rate, we find that Bayesian evaluation outperforms alternative approaches with notable margin across a wide range of LGDs. For example, assuming an average loan amount of $375 and an average LGD of 50% (based on our microlending data), we show that the incremental profit of Bayesian evaluation over the baseline of using only data from accepted clients is roughly $30 per loan. This significant increase in profit stems from the fact that Bayesian evaluation recommends a better (i.e., more profitable) acceptance rate.",6th September 2023,Stefan Lessmann,9
+Introduction to Python Programming for Machine Learning & AI,https://quantinar.com/course/689/introduction-to-python-programming-for-machine-learning-ai,"Learning objectives:
+
+*   Students are familiar with the Python programming language and know the Python ecosystem for data analysis and machine learning.
+*   Students understand general-purpose programming concepts such as object-orientation.
+*   Beyond acquiring programming abilities, students understand the fundamentals of machine learning and AI.
+*   Students know typical applications of the corresponding methods in industry and business research and have hands-on skills with employing Python libraries for machine learning to solve data-oriented business decision problems.",18th October 2023,Stefan Lessmann,112
+Variable Importance with missing values,https://quantinar.com/course/736/variable-importance-with-missing-values,"Video to the paper ""Variable Importance with missing values"".",15th March 2024,Lili Matic,1
+Nonparametric Variance Estimation with MAR Missing Values in the Predictor,https://quantinar.com/course/745/nonparametric-variance-estimation-with-mar-missing-values-in-the-predictor,Video to paper.,7th April 2024,Lili Matic,0
+代 DAI Digital Art Index,https://quantinar.com/course/148/dai-digital-art-index,"The big bang of non-fungible tokens (NFTs) has caused the birth of a brand new era for digital art. NFTs, driven by blockchain and smart contracts, provide both artists and art collectors an unprecedented marketplace which is equipped with more security, flexibility, publicity, and freedom to monetize.
+
+Unlike the conventional art market, NFT art market trades artworks in rapid succession and has no sluggish business cycle. Yet, the emergence of such a market has been considered to be packed with speculation and economic uncertainty, given the limited understanding toward this market.
+
+To precisely depict the NFT art market and offer a gauge for market volatility, we construct the price index --Digital Art Index (DAI)-- using a hedonic regression model on the top 10 liquid NFT art collections. In consideration of each artwork's time-variant and time-invariant characteristics, we are able to investigate price determinants and access the intrinsic value of the market.",7th November 2022,Wendy Wang,16
+Managing Climate Risk,https://quantinar.com/course/158/managing-climate-risk,This presentation was recorderd during Summer Camp 2022.,7th November 2022,Rüdiger Kiesel,1
+P-Hacking,https://quantinar.com/course/35/phacking,"Introduction into P-Hacking, dredging and massaging, which are techniques that facilitate false rejection of a null hypotheses.",2nd October 2023,Wolfgang Härdle,32
+Spectral Clustering,https://quantinar.com/course/51/spectralclustering,Spectral Clustering,7th November 2022,Wolfgang Härdle,41
+Word Embeddings,https://quantinar.com/course/83/P2P,"Word embeddings is a way to let the computer learn the meanings of words. We start from one-hot encoding representation and move on to an accidental yet very important finding of w2v. Then, we demonstrate the engineering thinking of GloVe. Finally, we briefly go through the corner stone of current research on word embeddings, BERT.",17th June 2024,Francis Liu,41
+KDE and ill-posed problems,https://quantinar.com/course/92/KDE,Ill-posed problems in Kernel Density Estimation,7th November 2022,Ilyas Agakishiev,9
+Electricity Price Prediction under Consideration of Market Coupling,https://quantinar.com/course/109/electricity-price-prediction-under-consideration-of-market-coupling,"The availability of accurate day-ahead electricity [price forecasts](https://www.sciencedirect.com/topics/engineering/price-forecast ""Learn more about price forecasts from ScienceDirect's AI-generated Topic Pages"")
+ is pivotal for electricity market participants. In the context of trade liberalisation and market harmonisation in the European markets, accurate price forecasting becomes difficult for electricity market participants to obtain because electricity forecasting requires the consideration of features from ever-growing coupling markets. This study provides a method of exploring the influence of market coupling on the electricity price prediction. We apply state-of-the-art long short-term memory (LSTM) [deep neural networks](https://www.sciencedirect.com/topics/engineering/deep-neural-network ""Learn more about deep neural networks from ScienceDirect's AI-generated Topic Pages"")
+ combined with feature [selection algorithms](https://www.sciencedirect.com/topics/engineering/selection-algorithm ""Learn more about selection algorithms from ScienceDirect's AI-generated Topic Pages"")
+ for electricity price prediction under the consideration of market coupling.",7th November 2022,Wayne Lee,5
+Spatial Analysis of Berlin Rent Prices and Landlord Premiums,https://quantinar.com/course/110/spatial-analysis-of-berlin-rent-prices-and-landlord-premiums,"This project is trying to:
+
+1.  Developing a spatial framework to work with infrastructural spatial data in the city of Berlin;
+2.  Model the rent prices based on previously scraped real data;
+3.  Geocode addresses to lat. lon. formats;
+4.  Use distance measurements and normalization techniques to create a scoring system for evaluating the different areas of Berlin in connection with real estate location;
+5.  Explore the idea of landlord premiums as an over-under-evaluation factor for real rent prices.",7th November 2022,Ivan Kotik,7
+Introduction to Reinforcement Learning,https://quantinar.com/course/36/ReinforcementLearning,"Short introduction to Reinforcement Learning, mostly Q-learning",11th June 2024,Ilyas Agakishiev,42
+CATE meets ML - The Conditional Average Treatment Effect and Machine Learning,https://quantinar.com/course/37/CATE,"This course deals with the intersection of causal inference, especially heterogeneity, and Machine Learning.  
+We will see why and how Machine Learning can be useful when estimating treatment effects.
+
+This is an introductory course that deals with methods that estimate the CATE. An empirical example, evaluating the effects of microcredits, sets the methods into perspective.",7th November 2022,Daniel Jacob,24
+LDA,https://quantinar.com/course/40/LDA,"Latent Dirichlet Allocation (LDA)  is a ML methods to analyse the unobserved variable (topic) based on the observed variables (words and documents). In this course, we will introduce topic models, mainly focusing on LDA and its application (with python). In chapter 2, we will touch the extensions of LDA model.",7th November 2022,Xinwen Ni,97
+LDA Extensions,https://quantinar.com/course/41/LDA-extensions,"Latent Dirichlet Allocation (LDA)  is a ML methods to analyse the unobserved variable (topic) based on the observed variables (words and documents). In this course, we will introduce topic models, mainly focusing on LDA and its application (with python). In this chapter 2, we will touch the extensions of LDA model.",7th November 2022,Xinwen Ni,18
+Assessing the Quality of Human-Generated Summaries with Weakly Supervised Learning,https://quantinar.com/course/44/summaryQuality,"This paper explores how to automatically measure the quality of human-generated summaries, based on a Norwegian corpus of real estate condition reports and their corresponding summaries. The proposed approach proceeds in two steps. First, the real estate reports and their associated summaries are automatically labelled using a set of heuristic rules gathered from human experts and aggregated using weak supervision. The aggregated labels are then employed to learn a neural model that takes a document and its summary as inputs and outputs a score reflecting the predicted quality of the summary. The neural model maps the document and its summary to a shared ""summary content space"" and computes the cosine similarity between the two document embeddings to predict the final summary quality score. The best performance is achieved by a CNN-based model with an accuracy (measured against the aggregated labels obtained via weak supervision) of 89.5%, compared to 72.6% for the best unsupervised model. Manual inspection of examples indicate that the weak supervision labels do capture important indicators of summary quality, but the correlation of those labels with human judgements remains to be validated. Our models of summary quality predict that approximately 30% of the real estate reports in the corpus have a summary of poor quality.",7th November 2022,Arild Næss,8
+Shapley Values,https://quantinar.com/course/48/shapley,The Shapley Decomposition is a model-agnostic tool which is able give a variable importance measure on a local level.,7th November 2022,Ratmir Miftachov,20
+PAC Learning,https://quantinar.com/course/62/pac,Theoretical framework for machine learning,7th November 2022,Anna Shchekina,17
+Generative Adversarial Networks,https://quantinar.com/course/66/GANs,"GANS are a machine learning framework that uses two competing neural networks in order to estimate densities. It was introduced in 2014 by Goodfellow et al. and received much attention ever since.
+
+Given a training set, the technique tries to create new data that looks as similar as possible to the training data. This course aims to give an introduction to this framework, give the mathematical intuition behind the idea and show some basic applications.",7th November 2022,Ramona Merkl,10
+Digital Surrogate Finance,https://quantinar.com/course/34/digitalfinance,Digital Surrogate Finance,7th November 2022,Raphael Reule,7
+Dynamic Crypto Networks,https://quantinar.com/course/50/cryptonetworks,Dynamic Crypto Networks,7th November 2022,Wolfgang Härdle,16
+Cryptocurrency as an Asset Class,https://quantinar.com/course/55/cryptoasset,Cryptocurrency as an Asset Class,7th November 2022,Wolfgang Härdle,6
+Comparison of Cryptocurrency Indices,https://quantinar.com/course/65/___,"Several cryptocurrency (CC) indices track the dynamics of the rising CC sector, and soon ETFs will be issued on them. We conduct a qualitative and quantitative evaluation of the currently existing CC indices. As the CC sector is not yet consolidated, index issuers face the challenge of tracking the dynamics of a fast-growing sector that is under continuous transformation. We propose several criteria and various measures to compare the indices under review. Major differences between the indices lie in their weighting schemes, their coverage of CCs and the number of constituents, the level of transparency, and thus their accuracy in mapping the dynamics of the CC sector. Our analysis reveals that indices that adapt dynamically to this rising sector outperform their competitors. Interestingly, increasing the number of constituents does not automatically lead to a better fit of the CC sector.",7th November 2022,Hongyu Xia,11
+Understanding Jumps in High Frequency Digital Asset Markets,https://quantinar.com/course/70/cryptojumps,"While attention is a predictor for digital asset prices, and jumps in Bitcoin prices are well-known, we know little about its alternatives. Studying high frequency crypto ticks gives us the unique possibility to confirm that cross market digital asset returns are driven by high frequency jumps clustered around black swan events, resembling volatility and trading volume seasonalities. Regressions show that intra-day jumps significantly influence end of day returns in size and direction. This provides fundamental research for crypto option pricing models. However, we need better econometric methods for capturing the specific market microstructure of cryptos. All calculations are reproducible via the quantlet.com technology
+
+**Code resource**: https://github.com/QuantLet/JumpDetectR",7th November 2022,Danial Saef,11
+Are Cryptos becoming alternative Assets?,https://quantinar.com/course/87/classify_cryptos,"*   This study sheds light on the distinction between cryptocurrencies and other assets. Using dimensionality reduction techniques, we show that the tail, memory, and moment factors of log returns explain the majority of the variation in cryptocurrencies, stocks, exchange rates, commodities, bonds, and real estate indexes.
+*   By applying various classification methods, cryptocurrencies are categorized as a separate asset class, mainly due to the tail factor. Using the Maximum Variance Components Split method, the main result is the complete separation of cryptocurrencies from other asset types.
+*   Furthermore, we demonstrate that cryptocurrencies tend to exhibit similar characteristics over time, becoming more distinct from other asset classes (synchronic evolution).",7th November 2022,Daniel Traian PELE,11
+Cryptocurrency: Speculative Asset and Medium of Exchange,https://quantinar.com/course/139/cryptocurrencies-from-an-economic-perspective,"Most models derive current cryptocurrency prices over rational expectations of future ones. We complement this perspective with a backward-looking view accounting for herding and momentum trading observed in cryptocurrency markets. Our approach merges an asset-flow approach modeling rational and irrational speculation around an asset’s fundamental value into the transactions-form of the quantity equations of money. Our approach allows us to analyze the inter-temporal relation of the quantity theory’s key variables for cryptocurrencies with their inflexible token supply. Due to the intuitive component models, our model is simple to interpret and to apply empirically and in simulations. We demonstrate its usefulness via simulations of how cryptocurrency prices adjust after changes in fundamental values. We find that a higher fraction of tokens held by investors (rather than circulated by users) leads to disproportionate increases in the instability of the price process in response to shocks. We conclude that stabilization of cryptocurrency prices is unlikely unless accompanied by low levels of tokens held by investors.",2nd September 2023,Ingolf Gunnar Anton Pernice,3
+Case-based reasoning for bankruptcy prediction,https://quantinar.com/course/90/CBR_for_BK,"There has been intensive research regarding artificial intelligence (AI) models for predicting bankruptcy in recent years. In this course, a data-driven case-based reasoning (CBR) method is introduced for bankruptcy prediction, testing its performance with the financial data from German companies.",7th November 2022,Wayne Lee,19
+eXplainable AI in Credit Risk Management,https://quantinar.com/course/176/explainable-ai-in-credit-risk-management,\-,17th December 2022,Branka Hadji-Misheva,7
+Introduction to XAI for Business,https://quantinar.com/course/651/introduction-to-xai-for-business,"Students gain an overview of the field of explainable XAI. We motivate the need for an explanation of AI models and introduce some business use cases. 
+
+The next chapter offers an overview of machine learning (ML), particularly supervised machine learning, to illustrate what is meant to be understandable versus opaque ML models. 
+
+Subsequently, we give an overview of approaches in the field of XAI including global and local explanation methods such as surrogate models, permutation-based feature importance, and partial dependency analysis. Introduction of the SHAP framework for local explanation, and generalizations to global explanations are the core part of the section.
+
+The accompanying Jupyter notebook walks students to some coding examples on how to use SHAP for explaining XGB-based regression models for house price prediction. To that end, we consider the well-known California Housing data set. Next, students are tasked to repeat the analysis for a classification model, which estimates credit risk scores for retail clients.",6th September 2023,Stefan Lessmann,2
+Robo-advising under rare disasters,https://quantinar.com/course/146/robo-advising-under-rare-disasters,"Robo-advisors provide investors with automated portfolio management services, and their growth is unprecedented. They performed less well during the COVID-19 pandemic than they had done during the non-crisis period. That less satisfactory performance was due to the fact that rare disasters are highly unlikely to occur and yet have a huge impact on financial markets.
+
+To improve the performance and learning efficiency of robo-advising, we develop a novel learning framework to tackle rare disaster events. This framework integrates importance sampling with the reinforcement learning algorithm. Instead of sampling transition probability from a ground-truth probability distribution, we sample it from proposal distribution, where the event of interest occurs more frequently.
+
+The proposed algorithm is validated by data covering both the 2008 financial crisis and the COVID-19 pandemic, showing superior performance over benchmarked methods. This is attributed to the intended learning about rare disasters so robo-advisors sharply lower the position on risky assets in advance. The proposed algorithm is model-free and reduces the variance of value estimates through importance sampling. In addition to methodological contributions, our study contributes to the growing literature on robo-advising by considering rare events.",7th November 2022,Jiawen Liang,5
+Portfolio loss distribution using copulae,https://quantinar.com/course/169/portfolio-loss-distribution-using-copulae,"Objectives:
+
+1.  Credit risk modeling 
+
+1.  *   Structural framework (Robert C. Merton, 1974)
+    *   Factor model for underlying factors
+2.  Portfolio loss density estimation
+
+*   *   Copula of assets multivariate distribution
+    *    Gaussian vs  \-student 
+    *   Correlation comparison",7th November 2022,Kainat Khowaja,3
+FRM Financial Risk Meter,https://quantinar.com/course/171/frm-financial-risk-meter,"The concept of risk deals with the exposure to danger, in the world of finance the danger of financial losses. In a globalised financial economy, many risks are unknown. ""We know it when we see it"", to paraphrase Justice Potter Stewart (1964). The Financial Risk Meter (FRM) sheds light on the emergence of systemic risk. Using of quantile regression techniques, it is a meter for financial risk, and its network topology offers insight into the spill-over effects risking systemic risk events. In this thesis, the FRM framework in various markets and regions is developed and the FRM data is used for risk now- and forecasting, and for portfolio optimization approaches. In Chapter 1 the FRM is presented and applied to equity markets in the US and Europe, but also interest rate and credit-default swap markets. The FRM is then used to now-cast and predict economic recessions. In Chapter 2 the FRM is applied to cryptocurrencies, to generate the first risk meter in this nascent asset class. The generated FRM data concerning dependencies, spill-over effects and network set-up are then used to create tail-risk optimised portfolios. In Chapter 3 the FRM is applied to the global market Emerging Market (EM) financial institutions. The FRM for EM gives specific spill-over dependencies in tail-risk events within sectors of financial institutions, but also shows inter-country dependencies between the EM regions. The FRM data is then combined with portfolio management approaches to create tail-risk sensitive portfolios of EM Financial institutions with aim to minimize risk clusters in a portfolio context. In Chapter 4 the Financial Risk Meter for China is developed as the first systemic risk meter in the region, but also derives methods to detect spill-over channels to neighbouring countries within and between financial industry sectors.",7th November 2022,Michael Althof,4
+Blockchain Technology - An Introduction,https://quantinar.com/course/27/BlockchainBasics,All about Blockchain!,7th November 2022,Min-Bin Lin,48
+NFTs VizTech,https://quantinar.com/course/33/nft,"This course provides a brief introduction to UMAP (Uniform Manifold Approximation and Projection), one of the recently developed VizTech (visualization techniques). The course also covers the problems of high-dimensional clustering, the methodology of UMAP, applications of UMAP to various datasets, and a comparison of UMAP with t-SNE (t-distributed stochastic neighborhood embedding).
+
+Among all the applications, I would like to highlight the CryptoPunk case. CryptoPunks from Larva Lab is one of the 'veteran' NFT series launched in 2017 and now has a total market capitalization of over $4 billion. UMAP helps to study the properties of CryptoPunks through its flattened pixel vectors. This leads to high-dimensional data, which we represent through modern visualization techniques to detect clusters and similarities between digital assets.
+
+Quantlet links of all the codes and outcomes are included in the course materials.",7th November 2022,Wendy Wang,36
+Introduction to Blockchain and Cryptocurrencies,https://quantinar.com/course/134/introduction-to-blockchain-and-cryptocurrencies,\-,7th November 2022,Roman Matkovskyy,10
+"Cryptos,  NFTs,  Digital Assets",https://quantinar.com/course/149/cryptos-nfts-digital-assets,Everything you need to know about Digital Assets!,7th November 2022,Wolfgang Härdle,6
+On Crypto-backed Loans,https://quantinar.com/course/174/On-Crypto-backed-Loans,"Abstract
+
+This paper introduces a mathematical model for the currently popular decentralised finance product, namely _crypto-backed peer-to-peer lending_ (CP2P). The model provides a potential justification of the positive interest rate premium charged by lenders from overly-collateralised loans. 
+
+In the proposed model, the borrower’s payoff is rather exotic: a _perpetual American roll down call option with exponentially growing strikes and barriers_. The payoff can be seen as a variant of the _extended roll-down call option_ documented by Carr et al. (1999). From a borrower’s perspective, quantitative analysis is carried out to investigate the relationship among the _fair value_ of the loan (a term from the stock loans literature, see e.g. Xia and Zhou (2007), Cai and Sun (2014), Dai and Xu (2011) Etc.), variables in the loan terms, and the characteristics of the underlying price process. 
+
+Cai, N., & Sun, L. (2014). Valuation of stock loans with jump risk. Journal of Economic Dynamic and Control, 40, 213-241.
+
+Carr, P., Ellis, K., & Gupta, V. (1999). Static hedging of exotic options. In Quantitative Analysis In Financial Markets: Collected Papers of the New York University Mathematical Finance Seminar (pp. 152-176).
+
+Dai, M., & Xu, Z. Q. (2011). Optimal redeeming strategy of stock loans with ﬁnite maturity. Mathematical Finance: An International Journal of Mathematics, Statistics and Financial Economics, 21(4), 775-793.
+
+Xia, J., & Zhou, X. Y. (2007). Stock loans. Mathematical Finance, 17(2), 307-317.
+
+\======================================================================
+
+The development of distributed ledger technology renovates the form of lending and borrowing: borrowers and lenders can now transact without traditional intermediaries e.g. banks. Instead, the whole borrow process is performed and governed by pre-agreed, immutable protocols and applications deployed on blockchains. Financial services on blockchains, known as decentralised finance, are different from their traditional counterparts due to their anonymous and decentralised nature. One major difference is that every aspect in decentralised finance must be monetarily incentivised; CP2P is no exception. In fact, popular CP2P protocols, e.g. Compound, AAVE and dYdX, are built upon balancing the incentives of the parties involved. As of 15th of March 2022, the total value locked as collateral in the CP2P market is worth 73 billion USD (data from [https://www.defipulse.com/](https://www.defipulse.com/)
+).
+
+Lenders’ incentive to supply liquidity is relatively straightforward: earning interest payment from _overly-collateralised_ loans. In CP2P, collateral is always applied to financially bind borrowers to repay. Since collaterals are in volatile cryptocurrencies, CP2P protocols usually require borrowers to pledge collateral that is worth more than the borrowings, i.e. over-collateralising the loan. Over-collateralisation does not only take place at the inception of the loan; it is enforced throughout the whole loan period. Popular protocols have mechanisms to check the loan-to-value ratio (LTV) periodically. If the LTV is larger than a pre-defined threshold, protocols turn part of the borrower’s debt available for liquidation.
+
+Liquidators are individuals who repay unhealthy debts and receive collateral. Anyone can be liquidators. Liquidators are incentivised by the liquidation bonus, the extra amount of collateral received during the liquidation, pre-agreed by borrowers.
+
+The CP2P loan terms seem harsh to borrowers especially the over-collateralisation requirement, but borrowers are not totally at a disadvantage. Contrarily, CP2P helps borrowers to achieve a range of objectives. First, borrowers receive liquidity in preferred cryptocurrencies without selling their crypto assets which might trigger tax events or price slippage. Second, borrowers can hedge against market downturn. If the collateral coin price goes down, borrowers may forfeit the collateral instead of repaying the loan, i.e. default. If the price goes up, the borrowers may repay the loan and the accrued interest to regain control of the collateral, i.e. unwind the position. The capped downside and unlimited upside payoff structure makes borrowers’ action contingent to price movements. In addition to hedging, borrowers can leverage their position by chaining up CP2P contracts by repeatedly exchanging the borrowed funds into collateral in the market and borrowing more from the CP2P market. We observe this behaviour from the data we collect from the Ethereum blockchain. 
+
+We study borrowers’ payoff by considering a simple economy, where a borrower possesses one unit of collateral and chains up CP2P contracts. The resulting payoff is exotic: perpetual American roll down call option with exponentially growing strikes and barriers. The payoff can be seen as a variant of the Extended roll-down call option documented in Carr et al. (1999). Other than chaining up contracts by themselves, borrowers may leverage their position using services provided by companies. The “Turbocharge Loans” service provided by company Youhodler can be seen as a securitised version of the CP2P. We delay the complex and lengthy payoff formulas to the upcoming poster. 
+
+The formulation of CP2P payoffs leads us to ask various questions, e.g. what is the current fair value of the contingent claim? How does the price process affect the fair value? Is the current loan parameters reasonable to all parties? Jumps in the crypto price process is particularly in our interest because jumps events are not rare in the crypto world and proven to be significantly impactful on credit products (Chen and Kou, 2009). Given the complexity of the payoff functions and price process, we answer these questions by adapting advanced Monte-Carlo methods, see Glasserman (2004), to double-exponential-jump-diffusion (Kou, 2002). 
+
+Reference
+
+Cai, N., & Sun, L. (2014). Valuation of stock loans with jump risk. Journal of Economic Dynamic and Control, 40, 213-241.
+
+Carr, P., Ellis, K., & Gupta, V. (1999). Static hedging of exotic options. In Quantitative Analysis In Financial Markets: Collected Papers of the New York University Mathematical Finance Seminar (pp. 152-176).
+
+Chen, N., & Kou, S. G. (2009). Credit spreads, optimal capital structure, and implied volatility with endogenous default and jump risk. Mathematical Finance: An International Journal of Mathematics, Statistics and Financial Economics, 19(3), 343-378.
+
+Dai, M., & Xu, Z. Q. (2011). Optimal redeeming strategy of stock loans with ﬁnite maturity. Mathematical Finance: An International Journal of Mathematics, Statistics and Financial Economics, 21(4), 775-793.
+
+Glasserman, P. (2004). Monte Carlo methods in financial engineering. New York: springer.
+
+Xia, J., & Zhou, X. Y. (2007). Stock loans. Mathematical Finance, 17(2), 307-317.
+
+Kou, S. G. (2002). A Jump Diffusion Model for Option Pricing, Management Science 48, 1086–1101.",27th August 2023,Francis Liu,12
+Chapter 1.1,https://quantinar.com/course/450/chapter-11,\-,7th January 2023,Bruno Spilak,3
+Quantinar - A P2P Knowledge Platform,https://quantinar.com/course/525/quantinar-a-p2p-knowledge-platform,"Living in the Information Age, the power of data and correct statistical analysis has never been more prevalent. Academics, practitioners and many other professionals nowadays require an accurate application of quantitative methods. Though many branches are subject to a crisis of integrity, which is shown in improper use of statistical models, $p$-hacking, HARKing or failure to replicate results. We propose the use of a peer-to-peer education network, Quantinar, to spread quantitative analysis knowledge embedded with code in the form of Quantlets. The integration of blockchain technology makes Quantinar a decentralised autonomous organisation (DAO) that ensures fully transparent and reproducible scientific research.",29th September 2023,Raul Cristian Bag,138
+Delaunay Triangulation and alpha shapes,https://quantinar.com/course/71/Delaunay-Triangulation-alpha-shapes,This course unit explains the Delaunay triangulation and touches the Minimum Spanning Tree (MST) construction and the alpha shape technology.,7th November 2022,Wolfgang Härdle,19
+Hedging Bitcoin with Futures,https://quantinar.com/course/77/Copula,"The introduction of Bitcoin derivatives, specifically the launch of futures contracts on CME in December 2017 and the introduction of cryptocurrency indices such as the CRIX or the Bloomberg Galaxy Crypto index, allows investors to hedge Bitcoin risk exposures through futures or contingent claims on indices. We investigate methods for determining an optimal hedge ratio under various dependence structures represented by copulae and using various optimality definitions based on a variety of risk measures.
+
+Because of the volatility swings and price jumps in Bitcoin, the traditional variance-based approach to calculating hedge ratios is impractical. As a result, the techniques can be applied to a variety of risk measures, including Value-at-Risk, Expected Shortfall and more broadly, Spectral Risk Measures.
+
+Furthermore, we use various copulas to capture the dependency between spot and future returns, such as the Gaussian, Student-t, NIG, and Archimedean copulas. Various measures of hedge effectiveness in out-of-sample tests provide insights into Bitcoin hedging practice.",27th August 2023,Francis Liu,9
+Network Centrality,https://quantinar.com/course/84/lvu-network-centrality,"This course covers some basic graph notation and terminology, as well as an overview of the most important node and graph centrality measures and their underlying assumptions, pros and cons.
+
+Additionally, these theoretical underpinnings are exemplified using applications such as the Minnesota Road Network, TENET, Network Quantile Regression, CRIX and FRM.",7th November 2022,Lucas Valentin Umann,17
+Hierarchical Clustering,https://quantinar.com/course/101/hierarchical-clustering,Hierarchical Clustering,7th November 2022,Wolfgang Härdle,36
+Model Selection Criteria,https://quantinar.com/course/107/model-selection-criteria,This Courselet explains AIC and BIC links it to FPE and applies to bandwidth selection.  FPE and Rice's T and Shibata's S Selector is presented as well,7th November 2022,Wolfgang Härdle,5
+Minimum Spanning Tree,https://quantinar.com/course/114/minimum-spanning-tree,"We will show:
+
+1.  What is MST?
+2.  MST algorithms
+3.  What can MST do?
+4.  Empirical Example1: Time Series Clustering
+5.  Empirical Example2: Cryptocurrency Portfolio",7th November 2022,Zijin Wang,46
+Generalized Method of Moments,https://quantinar.com/course/133/generalized-method-of-moments,"Generalized Method of Moments (GMM) is a generic method for estimating parameters in statistical models, whereas the data's distribution function may not be known. In this course, we will mainly focus on the efficient GMM estimator as well as the test statistic and the application in finance (with R),",7th November 2022,Yifu Wang,9
+Tukey's g- and h- transformations,https://quantinar.com/course/144/tukeys-g-and-h-transformations,"In theory, it is often assumed that random variables follow a normal distribution. However, in practice, this is often not the case. ETH returns during the time period from 2015 to the beginning of 2022 are bullish and follow a skewed distribution with heavy tails. The Tukey's g- and h- transformation provides a way to model this non-normality via the modification of standard normal random variables.  
+  
+In this courselet, we will cover the theoretical background on the Tukey gh transformations, show examples and illustrate limitations. Furthermore, we estimate the parameters g and h based on return data.  
+  
+As a result, the participants will get a deeper understanding of non-normality and the modification possibilities of already existing distributions. In addition, people will learn about skewness and heavy tails which can come in handy when dealing with financial return data.",7th November 2022,Alexander Hölzer,14
+U-Statistics,https://quantinar.com/course/153/u-statistics,"U-Statistics are an important class of statistics with amenable properties and widely used applications. This courselet gives a gentle introduction to the intuition behind U-Statistics, their mathematical properties and example applications.",7th November 2022,Lucas Valentin Umann,4
+Localising Forward Intensities for Multiperiod Default,https://quantinar.com/course/157/localising-forward-intensities-for-multiperiod-default,"This talk has been recorded at Summer Camp 2022.
+
+The talk represents our research in which using an adaptive Forward Intensities Approach (FIA), we investigate mutiperiod corporate defaults and other delisting schemes. The proposed approach is fully data-driven and is based on adaptive estimation and the selection of optimal estimation windows. Time-dependent model parameters are determined by a sequential testing procedure. This makes this approach adaptive at every time point. Applying the proposed method to monthly data on 2000 U.S. public firms over a sample period from 1991 to 2011, we estimate default probabilities over various prediction horizons. The prediction performance is evaluated against the global FIA that employs all past observations. For the six months prediction horizon, the local adaptive FIA performs with the same accuracy as the benchmark. The default prediction power is improved for the longer horizon (one to three years). Our method can be applied to any other specifications of forward intensities.",7th November 2022,Kainat Khowaja,3
+All about clustering!,https://quantinar.com/course/102/all-about-clustering,"**Cluster analysis** or **clustering** is a set of techniques in the toolbox of unsupervised learning.  The aim of cluster analysis is to categorize the input data, to segment it into homogeneous sub groups that guarantee a simultaneous heterogeneity across the sound subgroups. Cluster analysis is often done in an experimental data analysis framework where one likes to discover structure, e.g. on similar data objects, and where one likes to interpret observations and sub groups based on their relative distances. Cluster analysis may lead in a further step to a discriminant analysis based on labels attached to found subgroups. This course on „all about clustering“ covers several methods on clustering: these include k-means, k-expecttile clustering but also spectral clustering and minimum spanning trees.
+
+This clustering course has several courselets covering spectral clustering, hierarchical clustering, k-expectile clustering and several applications like „understanding jumps in high frequency digital asset markets“. It also introduces into the „financial risk meter for emerging markets“ and covers „dynamic crypto networks“
+
+Enjoy this course!",22nd January 2023,Raul Cristian Bag,19
+Blockchain Analytics,https://quantinar.com/course/695/blockchain,"Blockchain and other distributed ledger technologies (DLT) have defined a transformative era by ensuring data security and enabling traceable transfers.  Over recent years, digital currencies or cryptocurrencies (cryptos) have transitioned from digital novelties to trillion-dollar technologies, poised to reshape the global financial system.  In particular, Central Bank Digital Currencies (CBDCs) have surged to prominence, sparking discussions and controversies.  The Economist said, ""Divide the Cryptocurrency Sheep from the Blockchain Goats.” There is a widespread tendency to overlook the functionalities and capabilities of the underlying blockchain, while society often places a strong emphasis on technology hype.  In fact, numerous industrial instances showcase successful empowerment through the adoption of emerging technologies, thereby advancing their markets. As one pillar of the Fourth Industrial Revolution, blockchain technology is catalysing a profound transformation across industries. Its global impact is evident as it furnishes a secure and tamper-proof mechanism for recording and tracking digital transactions. This course provides a comprehensive introduction to blockchain technology, exploring its fundamental concepts and applications through the lenses of economics and statistics.",8th January 2024,Daniel Traian PELE,9
